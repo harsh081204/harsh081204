@@ -1,16 +1,15 @@
-## Hi there 👋
+###Hi, I'm Harsh Vardhan 👋
 
-<!--
-**harsh081204/harsh081204** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 I’m a student passionate about AI/ML and Web Development.
+💻 I enjoy building personal projects, exploring new technologies, and learning through hands-on practice.
+🤝 Open to collaboration on interesting projects in machine learning, deep learning, and web development.
 
-Here are some ideas to get you started:
+🔧 Skills & Tools
+Languages: Python, JavaScript, C++
+AI/ML: NumPy, Pandas, TensorFlow
+Web Development: React, Next.js
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+📚 Currently Exploring
+Advanced deep learning concepts (up to transformers 🚀)
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=harsh081204)](https://github.com/anuraghazra/github-readme-stats)
