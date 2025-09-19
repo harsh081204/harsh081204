@@ -12,4 +12,4 @@ Web Development: React, Next.js
 📚 Currently Exploring
 Advanced deep learning concepts (up to transformers 🚀)
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=harsh081204)](https://github.com/anuraghazra/github-readme-stats)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=harsh081204&show_icons=true&theme=tokyonight)
