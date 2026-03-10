@@ -1,12 +1,154 @@
-# 💫 About Me:
-Hi, I'm Harsh Vardhan 👋<br><br>🎓 I’m a student passionate about AI/ML and Web Development.<br>💻 I enjoy building personal projects, exploring new technologies, and learning through hands-on practice.<br>🤝 Open to collaboration on interesting projects in machine learning, deep learning, and web development.<br><br>🔧 Skills & Tools<br><br>Languages: Python, JavaScript, C++<br><br>AI/ML: NumPy, Pandas, TensorFlow<br><br>Web Development: React, Next.js<br><br>📚 Currently Exploring<br><br>Advanced deep learning concepts (up to transformers 🚀)
+# Harsh Vardhan
 
+Backend Engineer | AI Systems | Machine Learning
 
-# 💻 Tech Stack:
-![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7) ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi) ![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white) ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Keras](https://img.shields.io/badge/Keras-%23D00000.svg?style=for-the-badge&logo=Keras&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=harsh081204&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=harsh081204&theme=tokyonight&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=harsh081204&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+I’m a Computer Science student focused on building **scalable backend systems and AI-powered applications**.
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+My work sits at the intersection of **backend engineering, machine learning infrastructure, and LLM-powered products**. I enjoy designing systems that combine **APIs, data pipelines, vector databases, and intelligent models** to build real-world applications.
+
+Currently exploring:
+
+* scalable **backend architectures**
+* **LLM systems and RAG pipelines**
+* **AI agents and tool-based workflows**
+* **distributed systems and system design**
+
+I enjoy building **production-style systems from scratch**, focusing on performance, modular design, and intelligent automation.
+
+---
+
+# Featured Projects
+
+## MemoryGraph — AI Memory Infrastructure
+
+A backend system that provides **persistent contextual memory for LLM applications**.
+
+### What it does
+
+* Combines **vector similarity search and knowledge graphs** for long-term AI memory
+* Extracts entities and relationships from conversations
+* Retrieves relevant context for future responses
+* Enables personalized AI interactions
+
+### Backend Architecture
+
+* FastAPI API layer
+* Vector search retrieval
+* Graph-based reasoning engine
+* Context fusion pipeline for LLM prompts
+
+### Tech Stack
+
+FastAPI • Python • React • NLP • Vector Databases • Knowledge Graphs
+
+---
+
+## StudyPal — AI Study Assistant
+
+An AI-powered backend service that enables **semantic search and conversational learning**.
+
+### What it does
+
+* Allows users to query documents using natural language
+* Retrieves relevant knowledge using vector embeddings
+* Generates contextual responses using LLMs
+
+### Backend Architecture
+
+* RAG pipeline
+* Vector database retrieval
+* LLM inference pipeline
+* conversational memory system
+
+### Tech Stack
+
+Python • LangChain • LLaMA • ChromaDB • FastAPI
+
+---
+
+## AutoML Pipeline
+
+A backend system that automates **machine learning experimentation and model optimization**.
+
+### What it does
+
+* Automatically detects ML task type
+* Runs preprocessing and feature engineering
+* trains multiple models
+* performs hyperparameter optimization
+
+### System Components
+
+* preprocessing module
+* model training pipeline
+* hyperparameter tuning with Optuna
+* evaluation and model persistence
+
+### Tech Stack
+
+Python • Scikit-learn • XGBoost • Optuna
+
+---
+
+# Technical Skills
+
+### Programming Languages
+
+Python • C++ • JavaScript • Go
+
+### Backend Engineering
+
+FastAPI • Node.js • Express • REST APIs • Backend Architecture • API Design
+
+### AI / Machine Learning
+
+Machine Learning • Deep Learning • Transformers • LLMs • Retrieval-Augmented Generation • AI Agents
+
+### Databases
+
+PostgreSQL • MongoDB • Redis • Vector Databases • ChromaDB
+
+### Data & ML Tools
+
+NumPy • Pandas • Scikit-learn • Matplotlib • XGBoost
+
+### Frontend
+
+React • Next.js • HTML • CSS
+
+### Core Computer Science
+
+Data Structures • Operating Systems • DBMS • Computer Networks • System Design • Distributed Systems
+
+### Developer Tools
+
+Git • GitHub • Linux
+
+---
+
+# GitHub Stats
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=harsh081204\&show_icons=true\&theme=tokyonight)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=harsh081204\&layout=compact\&theme=tokyonight)
+
+![GitHub Streak](https://nirzak-streak-stats.vercel.app/?user=harsh081204\&theme=tokyonight)
+
+---
+
+# Current Focus
+
+* Building **AI-powered backend systems**
+* Designing **LLM infrastructure**
+* Learning **distributed system architecture**
+* Developing **AI tools and developer platforms**
+
+---
+
+# Connect
+
+Email: [harsh081204@xyz.com](mailto:harsh081204@xyz.com)
+LinkedIn: (add link)
+Portfolio: (optional)
+
+I'm open to collaborating on **AI infrastructure, backend engineering, and intelligent software systems**.
