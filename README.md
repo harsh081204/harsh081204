@@ -94,7 +94,7 @@ Python • Scikit-learn • XGBoost • Optuna
 
 ### Programming Languages
 
-Python • C++ • JavaScript • Go
+Go • Python • JavaScript • C++
 
 ### Backend Engineering
 
@@ -126,16 +126,6 @@ Git • GitHub • Linux
 
 ---
 
-# GitHub Stats
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=harsh081204\&show_icons=true\&theme=tokyonight)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=harsh081204\&layout=compact\&theme=tokyonight)
-
-![GitHub Streak](https://nirzak-streak-stats.vercel.app/?user=harsh081204\&theme=tokyonight)
-
----
-
 # Current Focus
 
 * Building **AI-powered backend systems**
@@ -147,8 +137,7 @@ Git • GitHub • Linux
 
 # Connect
 
-Email: [harsh081204@xyz.com](mailto:harsh081204@xyz.com)
-LinkedIn: (add link)
-Portfolio: (optional)
+Email: [harsh081204@gmail.com](mailto:harsh081204@gmail.com)
+LinkedIn: [Harsh Vardhan](http://linkedin.com/in/harsh-vardhan-53711624a/)
 
 I'm open to collaborating on **AI infrastructure, backend engineering, and intelligent software systems**.
